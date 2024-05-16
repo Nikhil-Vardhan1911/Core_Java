@@ -6,6 +6,6 @@ public class Eg1 {
 		
 		int x = 5;
 		x&=10; // bitwise and operation
-		System.out.println(x);		
+		System.out.println(x);		//add a comment
 	}
 }
